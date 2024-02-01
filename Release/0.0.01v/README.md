@@ -1,9 +1,10 @@
+## Table of Contents
 - [Release Overview](#release-overview)
 - [Scope](#scope)
 - [Documents Included](#documents-included)
 - [Release Highlights](#release-highlights)
 
-## Release Overview
+# Release Overview
 This release will focus on making a mobile POS application using AWS Appsync so that the POS can work offline without internet connectivity.
 
 You can take some help from the following blog post
@@ -16,13 +17,13 @@ https://github.com/amazon-archives/aws-appsync-refarch-offline
 - **Release Date:** 12-02-2024
 - **Version:** 0.0.01v
 
-## Scope 
+# Scope 
 
 The frontend mobile POS App with use the backend API ( That in turn use the shopify API for inventory and cart and cart checkout requests)
 
 The mobile App will show product lists , allow search and create cart and checkout request. After checkout it should create a customized bill and print.
 
-## Documents Included
+# Documents Included
 
 | **Document Type**       | **Description**                                               | **Link**                 |
 |--------------------------|---------------------------------------------------------------|--------------------------|
@@ -38,7 +39,7 @@ The mobile App will show product lists , allow search and create cart and checko
 | 10. Admin Prototype Link  | Prototype of AppKube E-commerce design for Admin.                   |     |
 | 11. Requester Prototype Link | Prototype of AppKube E-commerce design for Requester.            |        |
 
-## Release Highlights
+# Release Highlights
 
 - In-depth use cases and roadmap for the Procurement system.
 - API specifications and documentation for seamless integration.
