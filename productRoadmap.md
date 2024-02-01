@@ -1,10 +1,17 @@
 # Appkube Ecommerce Platform - Product Roadmap
 
+## Table of Contents
+- [Overview](#overview)
+- [Release 0.0.01v](#release)
+- [Release 0.0.02v](#release)
+- [Release 0.0.03v](#release)
+
+
 ## Overview
 
 This roadmap outlines the strategic plan to enhance our Ecommerce platform using Shopify APIs. The roadmap is designed to deliver incremental value to our users and maintain a competitive edge in the market.
 
-## Release 0.0.01v - Point of Sale Integration (POS)
+# Release 0.0.01v - Point of Sale Integration (POS)
 
 **Objective:** Developing PWA (Progressive Web Application) as well as establishing a seamless connection with Shopify APIs to integrate Point of Sale functionalities.
 
@@ -39,7 +46,7 @@ This roadmap outlines the strategic plan to enhance our Ecommerce platform using
 
 ---
 
-## Release 0.0.02v - Ecommerce Web Application
+# Release 0.0.02v - Ecommerce Web Application
 
 **Objective:** Develop a robust Ecommerce Web Application using Shopify APIs to enhance the online shopping experience.
 
@@ -70,7 +77,7 @@ This roadmap outlines the strategic plan to enhance our Ecommerce platform using
 
 ---
 
-## Release 0.0.03v - Ecommerce PWA Mobile
+# Release 0.0.03v - Ecommerce PWA Mobile
 
 **Objective:** Extend the Ecommerce platform to Progressive Web Application (PWA) on mobile devices for enhanced user accessibility.
 
@@ -97,7 +104,7 @@ This roadmap outlines the strategic plan to enhance our Ecommerce platform using
 
 ---
 
-## Release 0.0.04v - Customized APIs for Ecommerce PWA Mobile
+# Release 0.0.04v - Customized APIs for Ecommerce PWA Mobile
 
 **Objective:** Tailor the platform to specific business needs by implementing customized APIs for the Ecommerce PWA Mobile.
 
